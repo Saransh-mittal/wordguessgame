@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wordguessgame/static/css/main.4ed1c6f5.css",
+    "main.js": "/wordguessgame/static/js/main.7f74d816.js",
+    "index.html": "/wordguessgame/index.html",
+    "main.4ed1c6f5.css.map": "/wordguessgame/static/css/main.4ed1c6f5.css.map",
+    "main.7f74d816.js.map": "/wordguessgame/static/js/main.7f74d816.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed1c6f5.css",
+    "static/js/main.7f74d816.js"
+  ]
+}
